@@ -1,6 +1,8 @@
 # apocalypse
 Apocalypse is a Component Stack To Manage and Run Tasks with different Scheduling Algorithms it claims to revel the truth about data and its processing.
 
+![Apocalypse Word Root Image](https://cdn.etymonline.com/chart/etymology-apocalypse-15471p_l.jpg?t=1663986506000)
+
 ## apocalypse (n.)
 late 14c., "revelation, disclosure," from Church Latin apocalypsis "revelation," from Greek apokalyptein "uncover, disclose, reveal," from apo "off, away from" (see apo-) + kalyptein "to cover, conceal" (from PIE root *kel- (1) "to cover, conceal, save"). 
 
